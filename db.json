@@ -1,0 +1,18 @@
+{
+    "animals":[
+        {
+            "id": 1,
+            "name": "Scar",
+            "age": 5,
+            "type": "Cat",
+            "color": "Black"
+        },
+        {
+            "id": 2,
+            "name": "Mufasa",
+            "age": 5,
+            "type": "Cat",
+            "color": "Orange"
+        }
+    ]
+}
